@@ -222,7 +222,7 @@ CREATEASCONTAINERDATABASE = true
 # Default value : 0
 # Mandatory     : No
 #-----------------------------------------------------------------------------
-NUMBEROFPDBS = 1
+NUMBEROFPDBS = 2
 
 #-----------------------------------------------------------------------------
 # Name          : PDBNAME 
